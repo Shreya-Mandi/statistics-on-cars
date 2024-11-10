@@ -1,0 +1,19 @@
+{
+    "name": "car+profile+dates-data",
+    "#rows": 1000,
+    "#columns": 1000,
+    "columns": {
+        "first_name": "object",
+        "last_name": "object",
+        "gender": "object",
+        "emails": "object",
+        "country": "object",
+        "location_latitude": "object",
+        "location_longitude": "object",
+        "make": "object",
+        "model": "object",
+        "price": "int64",
+        "start": "datetime64[ns]",
+        "end": "datetime64[ns]"
+    }
+}

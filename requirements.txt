@@ -1,0 +1,4 @@
+Faker
+markdown_pdf
+matplotlib
+seaborn
